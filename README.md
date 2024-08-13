@@ -43,8 +43,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<img src="./resources/images/screenshot/company_home_page.png" alt="fotomatic-screeshot" width=100% height=auto>
 
-Make an homepage for a fake company using HTML and CSS. Have to use flexbox.
+<br>
+
+
+Make a responsive homepage for a fake company using HTML and CSS. Have to use flexbox.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
