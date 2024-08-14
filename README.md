@@ -32,8 +32,9 @@
   <summary>Table of Contents</summary>
   <ul>
     <li><a href="#about-the-project">About The Project</a>
+    <li><a href="#website-link">Website Link</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#Resources">Resources</a></li>
+    <li><a href="#resources">Resources</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
 </details>
@@ -43,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="./resources/images/screenshot/company_home_page.png" alt="fotomatic-screeshot" width=100% height=auto>
+<img src="./resources/images/screenshot/company_home_page.png" alt="screeshot" width=100% height=auto>
 
 <br>
 
@@ -53,7 +54,16 @@ Make a responsive homepage for a fake company using HTML and CSS. Have to use fl
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- WEBSITE LINK -->
+## Website Link
 
+### [Company Home Page](https://antancelin.github.io/CompanyHomePage_Codecademy/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- BUILT WITH -->
 ## Built With
 
 * ![HTML5]
